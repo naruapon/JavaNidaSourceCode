@@ -1,0 +1,8 @@
+Copy the following two JAR files for JSTL 1.2 into your Web App's WEB-INF/lib directory or Tomcat_Install_Dir/lib/
+and you should be all set!
+jstl-api-1.2
+jstl-impl-1.2
+
+
+You can also download these JAR files from: 
+http://jstl.java.net/download.html)
